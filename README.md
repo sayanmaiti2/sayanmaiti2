@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sayanmaiti2
 - 👀 I’m interested in Web Development and Data Science.
 - 🌱 I’m currently learning Angular application development and Tensorflow.
-- 💞️ I’m looking to collaborate on a Data Science project.
+- 💞️ I’m looking to collaborate on Web Development and Data Science projects.
 - 📫 Reach me out on Twitter at @maiti_sayan.
 
 <!---
